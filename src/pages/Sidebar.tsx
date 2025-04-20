@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronDown } from "lucide-react";
 import { IoIosArrowDown } from "react-icons/io";
 import { FaChevronDown, FaGoogleDrive, FaLanguage, FaRegCalendarAlt, FaSearch } from "react-icons/fa";
 import {
@@ -17,7 +16,6 @@ import {
   PiBookOpenTextFill,
   PiChatsTeardropDuotone,
   PiSignature,
-  PiSignatureFill,
 } from "react-icons/pi";
 import { IoBook } from "react-icons/io5";
 import { FaPeopleGroup } from "react-icons/fa6";
